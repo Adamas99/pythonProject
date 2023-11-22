@@ -40,3 +40,7 @@ cat1.printCat()
 
 def cat():
     return None
+
+cat2 = Cat(name="T", age=75, color="Bliue")
+
+cat2.printCat()
